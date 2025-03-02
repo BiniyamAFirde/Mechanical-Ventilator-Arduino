@@ -1,4 +1,4 @@
-# Mechanical-Ventilator-Arduino
+# Mechanical Ventilator-Arduino Uno
 
 A low-cost, portable mechanical ventilator designed for emergency and resource-limited settings. The ventilator is controlled using an Arduino Uno and Raspberry Pi, utilizing a DC motor and pressure sensors for airflow regulation. This project aims to provide an affordable, open-source alternative for medical use, especially in remote areas.
 
